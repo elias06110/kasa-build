@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Projet-react/static/css/main.2df82fb0.css",
+    "main.js": "/Projet-react/static/js/main.0b906a55.js",
+    "static/media/IMG2.png": "/Projet-react/static/media/IMG2.ef5dc982743b7363d7bd.png",
+    "static/media/IMGpng.png": "/Projet-react/static/media/IMGpng.1029510ac4f34eb21921.png",
+    "index.html": "/Projet-react/index.html",
+    "main.2df82fb0.css.map": "/Projet-react/static/css/main.2df82fb0.css.map",
+    "main.0b906a55.js.map": "/Projet-react/static/js/main.0b906a55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2df82fb0.css",
+    "static/js/main.0b906a55.js"
+  ]
+}
